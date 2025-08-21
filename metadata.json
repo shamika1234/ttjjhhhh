@@ -1,0 +1,7 @@
+{
+  "name": "Sinhala GPT",
+  "description": "An AI assistant supporting Sinhala, Tamil, and English languages for chat, coding, education, and image generation, complete with a voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
